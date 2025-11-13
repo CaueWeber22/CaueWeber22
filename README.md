@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cauê Veras</h1>
 <h3 align="center">A passionate backend developer. Always learning.</h3>
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Main Languages and Tools:</h3>
 <p align="left">
 
   <!-- Java -->
