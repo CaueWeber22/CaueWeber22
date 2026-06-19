@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cauê Veras</h1>
 <h3 align="center">A passionate backend developer. Always learning.</h3>
 
+<h2 align="left">Working on a private research repository</h2>
+
 <h3 align="left">Main Languages and Tools:</h3>
 <p align="left">
 
